@@ -3,9 +3,8 @@
 
 define category blocklist_gpa
 
-meteofrance.com; toto 09.02.2017 Request xxxxxx
-tf1.fr; toto 09.02.2017 Request xxxxxx
-francetelevisions.fr; gpa fdfdsfds
+clubic.om; toto 09.02.2017 Request xxxxxx
+microsoft.com; toto 09.02.2017 Request xxxxxx
 
 end
 
@@ -13,6 +12,5 @@ end
 
 define category Whitelist_gpa
 
-canalplus.fr; toto 09.02.2017 Request xxxxxx
-airbus.com; toto 09.02.2017 Request xxxxxx
-eurosport.fr; gpa fdfdsfds
+facebook.com; toto 09.02.2017 Request xxxxxx
+feedly.com; toto 09.02.2017 Request xxxxxx
