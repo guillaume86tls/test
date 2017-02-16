@@ -1,5 +1,5 @@
-*.meteofrance.com; toto 09.02.2017 Request xxxxxx
-*.tf1.fr; toto 09.02.2017 Request xxxxxx
+meteofrance.com
+*.tf1.fr
 *.francetelevisions.fr; gpa fdfdsfds
 *.canalplus.fr; toto 09.02.2017 Request xxxxxx
 *.airbus.com; toto 09.02.2017 Request xxxxxx
