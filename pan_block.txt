@@ -1,0 +1,18 @@
+;category Exceptionlist Category blocklist_gpa
+;xxxx
+
+define category blocklist_gpa
+
+meteofrance.com; toto 09.02.2017 Request xxxxxx
+tf1.fr; toto 09.02.2017 Request xxxxxx
+francetelevisions.fr; gpa fdfdsfds
+
+end
+
+;category Exceptionlist Category blocklist_gpa_2
+
+define category Whitelist_gpa
+
+canalplus.fr; toto 09.02.2017 Request xxxxxx
+airbus.com; toto 09.02.2017 Request xxxxxx
+eurosport.fr; gpa fdfdsfds
