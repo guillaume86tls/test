@@ -1,5 +1,8 @@
-meteofrance.com
 *.tf1.fr
-*.francetelevisions.fr; gpa fdfdsfds
+*.hubic.com
+meteofrance.com
+eurosport.com
+*.orange.com;
+airbus.com;
+francetelevisions.fr; gpa fdfdsfds
 *.canalplus.fr; toto 09.02.2017 Request xxxxxx
-*.airbus.com; toto 09.02.2017 Request xxxxxx
