@@ -1,6 +1,6 @@
 *.tf1.fr
 *.hubic.com
-meteofrance.com
+*meteofrance.com
 eurosport.com
 *.orange.com;
 airbus.com;
